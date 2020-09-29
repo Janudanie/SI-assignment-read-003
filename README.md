@@ -64,7 +64,7 @@ I would more have to read sections of it, and have a virtuel lab to do some expe
 ```
 I would proberbly if a had an assignment that conserned a section of the thesis again, and see if it would help me.
 I would also be very skeptic about it, the informatation in the thesis is 20 years old,
-some of it might really be a good way of doing it anymore.
+some of it might really not be a good way of doing it anymore.
 ```
 
 
